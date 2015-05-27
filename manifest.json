@@ -1,0 +1,16 @@
+{
+  "name": "View-In-Vocabulary",
+  "description": "Search A Word On Google",
+  "version": "0.0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2,
+  "icons": {
+          "16": "logo-16.png",
+          "48": "logo-48.png",
+          "128": "logo-128.png"
+        }
+}
